@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/encequipo"
+        android:layout_width="0dp"
+        android:layout_weight="3.6"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:text="@string/equipo"
+        />
+
+    <TextView
+        android:id="@+id/encptos"
+        android:text="@string/ptos"
+        android:layout_weight="1.5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/encpj"
+        android:text="@string/pj"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/encpg"
+        android:text="@string/pg"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/encpe"
+        android:text="@string/pe"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/encpp"
+        android:text="@string/pp"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/encgf"
+        android:text="@string/gf"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/encgc"
+        android:text="@string/gc"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:id="@+id/encdif"
+        android:text="@string/dif"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        />
+
+</LinearLayout>

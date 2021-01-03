@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ModeloTorneoDos</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="resultados">Resultados</string>
+    <string name="proximos_partidos">Proximos partidos</string>
+    <string name="grupod">Grupo D</string>
+    <string name="grupoc">Grupo C</string>
+    <string name="grupo_b">Grupo B</string>
+    <string name="grupo_a">Grupo A</string>
+    <string name="pr_ximos_partidos">Próximos partidos</string>
+    <string name="equipo">Equipo</string>
+    <string name="ptos">Pts</string>
+    <string name="pj">PJ</string>
+    <string name="pg">PG</string>
+    <string name="pe">PE</string>
+    <string name="pp">PP</string>
+    <string name="gf">GF</string>
+    <string name="gc">GC</string>
+    <string name="dif">Dif</string>
+</resources>
